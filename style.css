@@ -1,6 +1,15 @@
-body{
-  background-color:#d2e6f7;
+body {
+    background-color:#e3edf6;
+    font-family:-apple-system,BlinkMacSystemFont,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Segoe UI",Helvetica Neue,PingFang SC,Microsoft YaHei,sans-serif;
 }
-p{
-  color:#242424;
+h1 {
+    color:#006691;
+    text-align:center;
+}
+h2 {
+    color:#79c2dd;
+}
+p {
+    font-size:16px;
+    color:#252525;
 }
